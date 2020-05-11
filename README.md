@@ -1,1 +1,1 @@
-Here a starter blog app with Nextjs
+Here a starter blog app with Nextjs!
